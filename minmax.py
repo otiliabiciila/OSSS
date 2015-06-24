@@ -4,7 +4,7 @@ import sys
 
 
 def usage():
-    print >> sys.stderr, "Usage: python %s <filename> " % (sys.argv[0])
+    print >> sys.stderr, "Usage: python %s <filename>" % (sys.argv[0])
 
 
 def main():
