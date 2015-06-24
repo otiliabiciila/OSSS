@@ -1,0 +1,5 @@
+Maria	Ionescu	314	9
+Andrei	Mardale	315	10
+Iulia	Nicula	312	8
+Ioana	Popescu	311	4
+Mihai	Matei	314	7
